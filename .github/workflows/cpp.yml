@@ -11,3 +11,8 @@ jobs:
         run: g++ hello.cpp -o hello
       - name: Run program 
         run: ./hello
+
+      - name: Compile calculator.cpp
+        run: g++ calculator.cpp -o calculator
+      - name: Run calculator 
+        run: ./calculator
