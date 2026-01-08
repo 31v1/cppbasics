@@ -1,0 +1,15 @@
+# Temperature Safety Checker
+
+A factory oven reports its current temperature.  
+If the temperature is 100 or higher, the system must warn the operator.  
+Otherwise, it reports that the temperature is safe.
+
+---
+
+## 💡 Concepts Practiced
+- Input handling (`cin`)
+- Conditional logic (`if`)
+- Comparison operators (`>=`)
+
+## ▶️ How to Compile using Actions
+This project will be compiled automatically once Actions are added at the end of the course.
