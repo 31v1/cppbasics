@@ -1,17 +1,22 @@
 ## Polar Operations Check
-In a remote cold‑region facility, a trained polar bear operates basic industrial equipment.
-Before ending the shift, the operator performs a routine review of several numeric readings.
-Each reading is evaluated immediately, and the process continues until the operator enters 0, which ends the review.
+In the remote Arctic sector, the Polar Aerospace Operations Base conducts routine end‑of‑shift reviews to ensure all equipment remains stable under extreme conditions.
+The operator — a trained polar bear cosmonaut now assigned to ground‑level machinery supervision — must evaluate a sequence of numeric readings.
+The review continues until the operator enters 0, which signals the end of the procedure.
 
-For every value entered:
+🧊 Task
+For each reading entered:
 
-If the number is even, display: “OK – even reading”
+If the value is even, display:
+OK – even reading
 
-If the number is odd, display: “Attention – odd reading”
+If the value is odd, display:
+Attention – odd reading
 
-If the number is negative, display: “Invalid reading – negative value” (and ignore it)
+If the value is negative, display:
+Invalid reading – negative value  
+(and ignore it)
 
-When the operator enters 0, display a closing message indicating that the polar bear has completed the review and the system is ready for shutdown.
+When the operator enters 0, display a closing message indicating that the polar cosmonaut has completed the review and the system is ready for shutdown.
 
 
 💡 Concepts Practiced
