@@ -1,10 +1,8 @@
-# Hello, Control Center  
-
-The central system of a spacecraft boots up by displaying a welcome message.  
-Print a custom greeting message from the system.
----
+# Machine Startup Counter
+A production machine performs a startup sequence by counting from 1 up to a target number entered by the operator.
+Display the full startup count on the console.
 
 ## 💡 Concepts Practiced
-- Basic output (`cout`)
-- Program structure
-- First C++ program
+For loop
+Incrementing counters
+Console output
