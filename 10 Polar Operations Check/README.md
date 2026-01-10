@@ -13,7 +13,8 @@ If the number is negative, display: “Invalid reading – negative value” (an
 
 When the operator enters 0, display a closing message indicating that the polar bear has completed the review and the system is ready for shutdown.
 
-💡 Concepts Practiced
+##💡 Concepts Practiced
+
 Input handling (cin)
 
 Conditional logic (if / else)
