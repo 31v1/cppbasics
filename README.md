@@ -6,7 +6,7 @@ You may consult and modify the code for learning purposes, but copying it verbat
 
 ## Polar Aerospace Operations Base — Technical Training Module I
 
-Before joining the main operations team at the Polar Aerospace Operations Base, every trainee — including the now‑renowned polar bear cosmonaut Belyyl Ursov — must complete a foundational programming module.
+Before joining the main operations team at the Polar Aerospace Operations Base, every trainee — including the now‑renowned polar bear cosmonaut Belyy Ursov — must complete a foundational programming module.
 
 This first stage focuses on the core building blocks of C++ needed to operate and monitor basic systems within the facility.
 The tone is intentionally straightforward and industrial, with a subtle hint of dry humor acknowledging the unusual but highly professional nature of the personnel.
@@ -78,5 +78,5 @@ Sentinel‑controlled repetition
 
 ## 🧊🐻 Narrative Continuity
 
-This module introduces Mikhail Ursov, a trained polar bear cosmonaut beginning his technical preparation.
+This module introduces Belyy Ursov, a trained polar bear cosmonaut beginning her technical preparation.
 The exercises simulate simple tasks performed during early training at the Polar Aerospace Operations Base — a remote, highly specialized facility where professionalism remains constant, even if the operators have paws.
