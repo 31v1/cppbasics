@@ -1,0 +1,11 @@
+Multiplication Table Generator
+A factory console needs to display the multiplication table of a given number so operators can quickly verify production ratios.
+Generate a multiplication table from 1 to 10 based on the number entered by the operator.
+
+💡 Concepts Practiced
+
+For loop
+
+Basic arithmetic
+
+Console output
