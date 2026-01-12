@@ -1,6 +1,7 @@
 🧊🐻 Primary Operator
 -
 Belyy Ursov
+
 Species: Ursus maritimus
 
 Role: Cosmonaut trainee / systems operator
@@ -14,6 +15,7 @@ Notes: Professional at all times. Does not question protocols.
 🧸 Support Units (Non‑Operational Plush Division)
 -
 Pusa seal‑42
+
 Type: Ringed seal plush
 
 Function: Morale stabilization
@@ -22,7 +24,8 @@ Status: Present
 
 Notes: Silent. Reliable. Observes everything.
 
-Erignathus plush‑09
+Erignathus Nula‑09
+
 Type: Bearded seal plush
 
 Function: Secondary morale support / whisker‑based supervision
