@@ -41,7 +41,7 @@ Print a message a specified number of times using a for loop.
 9. Machine Startup Counter
 Count from 1 to a user‑defined target using a for loop.
 
-10. Final Input Review
+10. Polar Operations Check
 Integrate all basic concepts to classify readings until a sentinel value is entered.
 
 ## 🧊🐻 Concepts Practiced
