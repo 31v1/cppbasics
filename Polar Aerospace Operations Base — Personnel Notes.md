@@ -1,13 +1,42 @@
-🧊🐻 Personnel Notes
---
-Operator: Belyy Ursov
+🧊🐻 Primary Operator
+-
+Belyy Ursov
+Species: Ursus maritimus
 
-Support Units:
+Role: Cosmonaut trainee / systems operator
 
-Pusa seal‑42 — morale plush, ringed seal
+Strengths: High endurance, stable morale, excellent cold‑environment performance
 
-Erignathus plush‑09 — whiskered plush, bearded seal
+Limitations: Paws incompatible with standard keyboards (workarounds implemented)
 
-Training Status: Active
+Notes: Professional at all times. Does not question protocols.
 
-Module Completion: Pending final input review
+🧸 Support Units (Non‑Operational Plush Division)
+-
+Pusa seal‑42
+Type: Ringed seal plush
+
+Function: Morale stabilization
+
+Status: Present
+
+Notes: Silent. Reliable. Observes everything.
+
+Erignathus plush‑09
+Type: Bearded seal plush
+
+Function: Secondary morale support / whisker‑based supervision
+
+Status: Present
+
+Notes: Whiskers intact. Provides redundant emotional buffering.
+
+🗂 General Observations
+-
+Plush units remain aligned on shelf.
+
+No unauthorized movement detected.
+
+Operator morale stable.
+
+Training progression within expected parameters.
