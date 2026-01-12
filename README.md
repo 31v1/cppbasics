@@ -10,24 +10,8 @@ Before joining the main operations team at the Polar Aerospace Operations Base, 
 
 This first stage focuses on the core building blocks of C++ needed to operate and monitor basic systems within the facility.
 The tone is intentionally straightforward and industrial, with a subtle hint of dry humor acknowledging the unusual but highly professional nature of the personnel.
-
-## 🧊🐻 Objectives of the Module
-
-By the end of cppbasic, the trainee will be able to:
-
-Display information using console output
-
-Read and validate user input
-
-Use conditional logic (if, else if, else)
-
-Implement repetition with while, do‑while, and for loops
-
-Perform simple comparisons and numeric checks
-
-Build small, self‑contained programs that simulate basic operational tasks
-
-These exercises mirror the logic commonly used in technical interviews — the polar‑cosmonaut theme is simply a narrative wrapper.
+This module introduces Belyy Ursov, a trained polar bear cosmonaut beginning her technical preparation.
+The exercises simulate simple tasks performed during early training at the Polar Aerospace Operations Base — a remote, highly specialized facility where professionalism remains constant, even if the operators have paws.
 
 ## 🧊🐻 Exercises Overview
 1. Welcome Message
@@ -76,7 +60,3 @@ Incrementing counters
 
 Sentinel‑controlled repetition
 
-## 🧊🐻 Narrative Continuity
-
-This module introduces Belyy Ursov, a trained polar bear cosmonaut beginning her technical preparation.
-The exercises simulate simple tasks performed during early training at the Polar Aerospace Operations Base — a remote, highly specialized facility where professionalism remains constant, even if the operators have paws.
