@@ -1,6 +1,6 @@
 🧊🐻 Primary Operator
 -
-Belyy Ursov
+## Belyy Ursov
 
 Species: Ursus maritimus
 
@@ -14,7 +14,7 @@ Notes: Professional at all times. Does not question protocols.
 
 🧸 Support Units (Non‑Operational Plush Division)
 -
-Pusa seal‑42
+## Pusa seal‑42
 
 Type: Ringed seal plush
 
@@ -24,7 +24,7 @@ Status: Present
 
 Notes: Silent. Reliable. Observes everything.
 
-Erignathus Nula‑09
+## Erignathus Nula‑09
 
 Type: Bearded seal plush
 
