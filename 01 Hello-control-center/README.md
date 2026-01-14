@@ -1,13 +1,16 @@
 # Hello, Control Center  
+--
+Every system at the Polar Aerospace Operations Base starts by sending a simple greeting to the Control Center.
+It’s the smallest possible confirmation that the machine is awake, responsive, and not frozen solid.
 
-The central system of a spacecraft boots up by displaying a welcome message.  
-Print a custom greeting message from the system.
----
+## 🎯 Objective
+Print a custom welcome message from the system.
+
+## 🧊🐻 Narrative Context
+This is the first task assigned to new trainees — including Belyy Ursov during her onboarding week.
+If the system can say hello, everything else can follow.
 
 ## 💡 Concepts Practiced
-- Basic output (`cout`)
-- Program structure
-- First C++ program
-
-## ▶️ How to Compile using actions.
-This project can be compiled automatically using GitHub Actions. Every push to this folder triggers the workflow that builds the program using `g++`.
+Basic console output (cout)
+Program structure
+First C++ program
