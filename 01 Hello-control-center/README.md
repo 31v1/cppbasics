@@ -11,6 +11,6 @@ This is the first task assigned to new trainees — including Belyy Ursov during
 If the system can say hello, everything else can follow.
 
 ## 💡 Concepts Practiced
-Basic console output (cout)
-Program structure
-First C++ program
+* Basic console output (cout)
+* Program structure
+* First C++ program
