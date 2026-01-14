@@ -16,6 +16,6 @@ This is one of the first real tasks assigned to trainees.
 Belyy Ursov learned quickly that odd‑numbered parts usually come from “creative suppliers,” and the scanner’s judgment is often wiser than hers.
 
 ## 💡 Concepts Practiced
-*Input handling (cin)
-*Conditional logic (if)
-*Even/odd evaluation using modulo
+* Input handling (cin)
+* Conditional logic (if)
+* Even/odd evaluation using modulo
