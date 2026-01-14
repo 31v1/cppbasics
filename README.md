@@ -4,6 +4,17 @@ A collection of introductory C++ exercises covering essential programming concep
 These exercises are licensed under CC BY‑NC‑SA 4.0.
 You may consult and modify the code for learning purposes, but copying it verbatim for academic submission is not allowed.
 
+🧊🐻 Why a Story?
+Traditional beginner programming exercises tend to be functional… and painfully dull.
+After a few hours of typing numbers into a console, even the hardiest trainee at the Polar Aerospace Operations Base starts questioning their life choices.
+
+So this module uses a light narrative — a polar bear cosmonaut, a silent seal, a plush with suspiciously expressive whiskers, and a remote industrial facility where professionalism remains absolute even when the operators have paws.
+
+The story doesn’t replace the technical content.
+It simply makes the process more bearable.
+
+Because when you’re learning C++ and trying to stay awake through loops, conditionals and battling = and ==, a little humor is as essential as thermal gloves.
+
 ## Polar Aerospace Operations Base — Technical Training Module I
 
 Before joining the main operations team at the Polar Aerospace Operations Base, every trainee — including the now‑renowned polar bear cosmonaut Belyy Ursov — must complete a foundational programming module.
