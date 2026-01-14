@@ -1,5 +1,5 @@
 # Hello, Control Center  
---
+
 Every system at the Polar Aerospace Operations Base starts by sending a simple greeting to the Control Center.
 It’s the smallest possible confirmation that the machine is awake, responsive, and not frozen solid.
 
