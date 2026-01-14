@@ -5,6 +5,7 @@ These exercises are licensed under CC BY‑NC‑SA 4.0.
 You may consult and modify the code for learning purposes, but copying it verbatim for academic submission is not allowed.
 
 🧊🐻 Why a Story?
+--
 Traditional beginner programming exercises tend to be functional… and painfully dull.
 After a few hours of typing numbers into a console, even the hardiest trainee at the Polar Aerospace Operations Base starts questioning their life choices.
 
