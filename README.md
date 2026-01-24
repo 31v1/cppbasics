@@ -9,6 +9,7 @@ You may consult and modify the code for learning purposes, but copying it verbat
 
 Traditional beginner programming exercises tend to be functional… and painfully dull.
 After a few hours of typing numbers into a console, even the hardiest trainee at the Polar Aerospace Operations Base starts questioning their life choices.
+
 **Do not be misled by the playful tone: the exercises are as challenging as any textbook example. The story exists only to make the process less monotonous — not easier.**
 
 So this module uses a light narrative — a polar bear cosmonaut, a silent seal, a plush with suspiciously expressive whiskers, and a remote industrial facility where professionalism remains absolute even when the operators have paws.
