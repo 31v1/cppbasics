@@ -77,4 +77,4 @@ Sentinel‑controlled repetition
 
 ▶️ How to Compile using actions.
 --
-This project can be compiled automatically using GitHub Actions. Every push to this folder triggers the workflow that builds the program using g++.
+In the making....
