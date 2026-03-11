@@ -12,7 +12,7 @@ After a few hours of typing numbers into a console, even the hardiest trainee at
 
 **Do not be misled by the playful tone: the exercises are as challenging as any textbook example. The story exists only to make the process less monotonous — not easier.**
 
-So this module uses a light narrative — a polar bear cosmonaut, a silent seal, a plush with suspiciously expressive whiskers, and a remote industrial facility where professionalism remains absolute even when the operators have paws.
+So this module uses a light narrative — a polar bear cosmonaut, a silent seal, another seal with suspiciously expressive whiskers, and a remote industrial facility where professionalism remains absolute even when the operators have paws.
 
 The story doesn’t replace the technical content.
 It simply makes the process more bearable.
